@@ -18,3 +18,7 @@ The project utilizes Django for server-side operations and Bootstrap for a respo
 ## Conclusion
 
 The PCAP Course Resource Portal offers an efficient solution for managing academic tasks within a university setting. By leveraging modern web technologies, the project simplifies administrative tasks and enhances the educational experience.
+
+##Link
+
+Link to complete project: https://drive.google.com/drive/folders/11E4qwD9gnbDS61xuw4QoayaDK4vPpat2?usp=sharing
